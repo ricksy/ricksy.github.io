@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: defualt
+title:  "Welcome to Mufradat"
 date:   2021-05-10 01:15:46 +0200
 categories: jekyll update
 ---
