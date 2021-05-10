@@ -28,7 +28,7 @@ url: "mufradat.com" # the base hostname & protocol for your site, e.g. http://ex
 github_username:  ricksy
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
